@@ -1,0 +1,8 @@
+body {background-color: black;}
+h1 {color: gold; font-size: 80px;
+font-style: italic;}
+img {height: 400px;}
+button {color: rgb(5, 5, 5); background-color: aliceblue; height: 80px; width: 300px; }
+button:hover { background: red; }
+h2 {font-size: 50px; background-color: chartreuse; font-style: italic;}
+p {font-style:initial; color: cyan; font-size: 40px;}
